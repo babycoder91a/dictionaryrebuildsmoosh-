@@ -1,2 +1,0 @@
-# dictionaryrebuildsmoosh-
-Dictionary search engine 
